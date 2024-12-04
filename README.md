@@ -27,3 +27,16 @@ Para usar este projeto localmente, basta clonar o repositório em sua máquina:
 ```bash
 git clone https://github.com/seu-usuario/password-generator.git
 cd password-generator
+```
+
+Abra o arquivo `index.html` em seu navegador para começar a usar o gerador de senhas.
+
+## Tecnologias Usadas
+- **HTML**: Estrutura básica do site.
+- **CSS**: Estilização e design responsivo.
+- **JavaScript**: Lógica de geração da senha e interatividade.
+- **Font Awesome**: Ícones para tornar a interface mais amigável.
+
+## Contribuição
+Se você quiser contribuir para este projeto, fique à vontade para abrir um **pull request**. Todos os tipos de contribuição são bem-vindos!
+
